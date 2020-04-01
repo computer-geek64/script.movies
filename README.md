@@ -1,2 +1,1 @@
-# movie-addon
-Kodi Movies Addon
+# Kodi Movies Addon
